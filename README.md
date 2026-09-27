@@ -1,20 +1,20 @@
 ## Hi there 
-I am advaith, a student studying in 12th and trying to learn more about computers and coding
+- I am advaith, a student studying in 12th and trying to learn more about computers and coding
 
-i have tried using python many times and make many micro projects with python i use sometimes in my daily life all around
+- I have tried using python many times and make many micro projects with python i use sometimes in my daily life all around
 
-i am currently learning on HTML, CSS and REACT
-This profile is new as i wanted a fresh start to github and enjoy the community
+- I am currently learning on HTML, CSS and REACT
+- This profile is new as i wanted a fresh start to github and enjoy the community
 
 ## Fun fact
-i am an Ex windows user who switched to linux about a year ago
-Working on improving my workflow and optimizing routes
+- i am an Ex windows user who switched to linux about a year ago
+- Working on improving my workflow and optimizing routes
 
 
 ## A bit about me
-i use arch btw
-Like to game here and there
-Loves optimization
+- i use arch btw
+- Like to game here and there
+- Loves optimization
 
 <!--
 **Xhail-tech/Xhail-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
